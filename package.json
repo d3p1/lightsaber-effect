@@ -1,6 +1,6 @@
 {
   "name": "@d3p1/lightsaber-effect",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A lightsaber effect to improve my JS skills",
   "private": true,
   "type": "module",
